@@ -76,7 +76,7 @@ The next analysis should identify:
 * Whether discounts or returns are affecting profitability.
 
 ---
-![Revenue by City](..\Screenshots/RevenuebyCity.png)
+![Revenue by City](../Screenshots/RevenuebyCity.png)
 # 4. Revenue by City
 
 ### Chart: Revenue by City
@@ -122,7 +122,7 @@ Therefore, city revenue should be analyzed together with:
 **Profit Margin % + Orders + AOV**
 
 ---
-![AOV by City](..\Screenshots/AOVBYCITY.png)
+![AOV by City](../Screenshots/AOVBYCITY.png)
 # 5. AOV by City
 
 ### AOV — Average Order Value
