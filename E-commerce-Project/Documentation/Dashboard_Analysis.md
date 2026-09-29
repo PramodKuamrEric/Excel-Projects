@@ -3,7 +3,7 @@
 # E-Commerce Sales & Profitability Dashboard
 ## Dashboard Preview
 
-![E-Commerce Sales Analytics Dashboard](.\Screenshots/Deshboard.png)
+![E-Commerce Sales Analytics Dashboard](../Screenshots/Deshboard.png)
 
 ## 1. Project Overview
 
